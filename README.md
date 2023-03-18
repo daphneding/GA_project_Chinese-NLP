@@ -9,13 +9,11 @@
 
 The objective of the study is two-folds:
 
-#### Proof of concept: 
-    
-- Is the analysis through NLP able to uncover the linguistic complexity and cultural nuances of Chinese?
+#### 1. Proof of Concept: 
+- Is the analysis through text EDA & NLP able to uncover the linguistic complexity and cultural nuances of Chinese, by a test of movie genre classification?
 
-#### Insights for potential applications:
-    
-- The use of Chinese NLP in the field of content review, and content recommendation systems etc. 
+#### 2. Insights for Douban:
+- For movie reviews under two different genres, how far apart are their Douban reviews? 
 
 The project is approached with the following steps:
 
