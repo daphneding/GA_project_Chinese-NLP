@@ -37,9 +37,8 @@ For each of the titles, I searched it through the Douban homepage, clicked to vi
 
 Models designed for comparison:
 
-**Model A: CountVectorizer + Multinomial Naive Bayes**
-
-**Model B: Tf-idf Vectorizer + Logistic Regression**
+-**Model A: CountVectorizer + Multinomial Naive Bayes**
+-**Model B: Tf-idf Vectorizer + Logistic Regression**
 
 Both are simple, efficient (for large datasets) and easy to interpret. 
 
